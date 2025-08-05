@@ -1,0 +1,5 @@
+id_curso,nome,nivel,carga_horaria,obrigatorio
+1,Fundamentos da Medicina,graduação,360,True
+2,Urgência e Emergência,graduação,180,True
+3,Cuidados Paliativos,pós,120,False
+4,Diagnóstico por Imagem,pós,200,True
